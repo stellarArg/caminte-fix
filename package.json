@@ -113,7 +113,7 @@
     },
     "devDependencies": {
         "arangojs": "4.2.0 - 4.4.0",
-        "async": "^2.6.0",
+        "async": "^3.2.2",
         "cassandra-driver": "^3.5.0",
         "coffee-script": "^1.12.7",
         "cradle": "^0.7.1",
